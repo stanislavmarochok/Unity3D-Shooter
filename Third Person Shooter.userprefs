@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Cameras\ThirdPersonCamera.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\PlayerCover.cs" Line="33" Column="22" />
+      <File FileName="Assets\Shared\Cover.cs" Line="23" Column="2" />
+      <File FileName="Assets\Shared\Projectile.cs" Line="44" Column="141" />
+      <File FileName="Assets\Scripts\Cameras\ThirdPersonCamera.cs" Line="48" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerAim.cs" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
